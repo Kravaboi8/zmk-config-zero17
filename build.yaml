@@ -1,4 +1,2 @@
 include:
-  - board: promicro_nrf52840
-    shield: macropad
-    
+  - board: nice_nano_v2
